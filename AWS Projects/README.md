@@ -17,4 +17,7 @@ Project-specific architecture guides, CLI commands, and diagrams are included to
 
 New projects are added regularly to build practical cloud experience and strengthen infrastructure understanding.
 
+**Note:** Please **download** the PDF file if it does not preview in GitHub.
+
+
 ---
